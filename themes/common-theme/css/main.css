@@ -1,0 +1,324 @@
+/* BACKGROUND */
+/* more bg patterns at http://subtlepatterns.com and http://thepatternlibrary.com */
+/* also see http://www.awwwards.com/background-patterns-designs-and-resources-for-websites.html */
+
+body.dark-bg,
+body.default-asus {
+    background-color: #181818;
+}
+body.wood{
+    background: url("../img/bg/wood.jpg") repeat scroll center top transparent;
+}
+body.dark-blue {
+    background: url("../img/bg/dark_blue.jpg") repeat scroll center top transparent;
+    background-attachment: fixed;
+    background-size: cover;
+}
+body.yellow-wood {
+    background: url("../img/bg/yellow_wood.jpg") repeat scroll center top transparent;
+}
+body.white-blue {
+    background: url("../img/bg/white_blue.jpg") repeat scroll center top transparent;
+}
+body.simple-white {
+    background: #F7F7F7;
+    overflow-y: scroll;
+}
+body.dark-wood {
+    background: url("../img/bg/dark_wood.jpg") repeat scroll center top transparent;
+}
+body.wood1 {
+    background: url("../img/bg/wood_1.jpg") repeat scroll center top transparent;
+}
+body.dark-brick-wall {
+    background: url("../img/bg/dark_brick_wall.png") repeat scroll center top transparent;
+}
+body.dark-leather {
+    background: url("../img/bg/dark_leather.png") repeat scroll center top transparent;
+}
+body.dark-mosaic {
+    background: url("../img/bg/dark_mosaic.png") repeat scroll center top transparent;
+}
+body.noisy-net {
+    background: url("../img/bg/noisy_net.png") repeat scroll center top transparent;
+}
+body.rebel {
+    background: url("../img/bg/rebel.png") repeat scroll center top transparent;
+}
+body.crissXcross {
+    background: url("../img/bg/crissXcross.png") repeat scroll center top transparent;
+}
+body.upholstery {
+    background:
+    radial-gradient(hsl(0, 100%, 27%) 4%, hsl(0, 100%, 18%) 9%, hsla(0, 100%, 20%, 0) 9%) 0 0,
+    radial-gradient(hsl(0, 100%, 27%) 4%, hsl(0, 100%, 18%) 8%, hsla(0, 100%, 20%, 0) 10%) 50px 50px,
+    radial-gradient(hsla(0, 100%, 30%, 0.8) 20%, hsla(0, 100%, 20%, 0)) 50px 0,
+    radial-gradient(hsla(0, 100%, 30%, 0.8) 20%, hsla(0, 100%, 20%, 0)) 0 50px,
+    radial-gradient(hsla(0, 100%, 20%, 1) 35%, hsla(0, 100%, 20%, 0) 60%) 50px 0,
+    radial-gradient(hsla(0, 100%, 20%, 1) 35%, hsla(0, 100%, 20%, 0) 60%) 100px 50px,
+    radial-gradient(hsla(0, 100%, 15%, 0.7), hsla(0, 100%, 20%, 0)) 0 0,
+    radial-gradient(hsla(0, 100%, 15%, 0.7), hsla(0, 100%, 20%, 0)) 50px 50px,
+    linear-gradient(45deg, hsla(0, 100%, 20%, 0) 49%, hsla(0, 100%, 0%, 1) 50%, hsla(0, 100%, 20%, 0) 70%) 0 0,
+    linear-gradient(-45deg, hsla(0, 100%, 20%, 0) 49%, hsla(0, 100%, 0%, 1) 50%, hsla(0, 100%, 20%, 0) 70%) 0 0;
+    background-color: #300; 
+    background-size: 100px 100px;
+}
+body.starry-night {
+    background-color:black;
+    background-image:
+    radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+    radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+    radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+    radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+    background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px; 
+    background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+}
+body.rainbow-bokeh {
+    background: 
+    radial-gradient(rgba(255,255,255,0) 0, rgba(255,255,255,.15) 30%, rgba(255,255,255,.3) 32%, rgba(255,255,255,0) 33%) 0 0,
+    radial-gradient(rgba(255,255,255,0) 0, rgba(255,255,255,.1) 11%, rgba(255,255,255,.3) 13%, rgba(255,255,255,0) 14%) 0 0,
+    radial-gradient(rgba(255,255,255,0) 0, rgba(255,255,255,.2) 17%, rgba(255,255,255,.43) 19%, rgba(255,255,255,0) 20%) 0 110px,
+    radial-gradient(rgba(255,255,255,0) 0, rgba(255,255,255,.2) 11%, rgba(255,255,255,.4) 13%, rgba(255,255,255,0) 14%) -130px -170px,
+    radial-gradient(rgba(255,255,255,0) 0, rgba(255,255,255,.2) 11%, rgba(255,255,255,.4) 13%, rgba(255,255,255,0) 14%) 130px 370px,
+    radial-gradient(rgba(255,255,255,0) 0, rgba(255,255,255,.1) 11%, rgba(255,255,255,.2) 13%, rgba(255,255,255,0) 14%) 0 0,
+    linear-gradient(45deg, #343702 0%, #184500 20%, #187546 30%, #006782 40%, #0b1284 50%, #760ea1 60%, #83096e 70%, #840b2a 80%, #b13e12 90%, #e27412 100%);
+    background-size: 470px 470px, 970px 970px, 410px 410px, 610px 610px, 530px 530px, 730px 730px, 100% 400%;
+    background-color: #840b2a;
+}
+body.carbon {
+    background:
+    linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+    linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+    linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+    linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+    linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+    linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+    background-color: #131313;
+    background-size: 20px 20px;
+}
+body.blueprint-grid {
+    background-color:#269;
+    background-image: linear-gradient(white 2px, transparent 2px),
+    linear-gradient(90deg, white 2px, transparent 2px),
+    linear-gradient(rgba(255,255,255,.3) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.3) 1px, transparent 1px);
+    background-size:100px 100px, 100px 100px, 20px 20px, 20px 20px;
+    background-position:-2px -2px, -2px -2px, -1px -1px, -1px -1px
+}
+body.cicada-stripes {
+    background-color: #026873;
+    background-image: linear-gradient(90deg, rgba(255,255,255,.07) 50%, transparent 50%),
+    linear-gradient(90deg, rgba(255,255,255,.13) 50%, transparent 50%),
+    linear-gradient(90deg, transparent 50%, rgba(255,255,255,.17) 50%),
+    linear-gradient(90deg, transparent 50%, rgba(255,255,255,.19) 50%);
+    background-size: 13px, 29px, 37px, 53px;
+}
+body.tartan {
+    background-color: hsl(2, 57%, 40%);
+    background-image: repeating-linear-gradient(transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
+    repeating-linear-gradient(270deg, transparent, transparent 50px, rgba(0,0,0,.4) 50px, rgba(0,0,0,.4) 53px, transparent 53px, transparent 63px, rgba(0,0,0,.4) 63px, rgba(0,0,0,.4) 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),
+    repeating-linear-gradient(125deg, transparent, transparent 2px, rgba(0,0,0,.2) 2px, rgba(0,0,0,.2) 3px, transparent 3px, transparent 5px, rgba(0,0,0,.2) 5px);
+}
+body.carbon-fibre {
+    background:
+    radial-gradient(black 15%, transparent 16%) 0 0,
+    radial-gradient(black 15%, transparent 16%) 8px 8px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+    radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 8px 9px;
+    background-color:#282828;
+    background-size:16px 16px;
+}
+body.horizontal-stripes {
+    background-size: 50px 50px;
+    background-color: #0ae;
+    background-image: -webkit-linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+    background-image: -moz-linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+    background-image: linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+    -pie-background: linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent) 0 0 / 50px #0ae;
+    behavior: url(/pie/PIE.htc);
+}
+body.vertical-stripes {
+    background-size: 50px 50px;
+    background-color: #f90;
+    background-image: -webkit-linear-gradient(0deg, rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+    background-image: -moz-linear-gradient(0deg, rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+    background-image: linear-gradient(90deg, rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+    -pie-background: linear-gradient(90deg, rgba(255, 255, 255, .2) 50%, transparent 50%, transparent) 0 0 / 50px 50px #f90;
+    behavior: url(/pie/PIE.htc);
+}
+body.weave {
+    background:
+    linear-gradient(135deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),
+    linear-gradient(225deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+    background-color:#708090;
+    background-size: 64px 128px
+}
+body.angled-135 {
+    background-size: 50px 50px;
+    background-color: #c16;
+    background-image: -webkit-linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                      transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                      transparent 75%, transparent);
+    background-image: -moz-linear-gradient(-45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                      transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                      transparent 75%, transparent);
+    background-image: linear-gradient(135deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                      transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                      transparent 75%, transparent);
+    -pie-background: linear-gradient(135deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                     transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                     transparent 75%, transparent) 0 0 / 50px 50px, #c16;
+    behavior: url(/pie/PIE.htc);
+}
+body.angled {
+    background-size: 50px 50px;
+    background-color: #ac0;
+    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                      transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                      transparent 75%, transparent);
+    background-image: -moz-linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                      transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                      transparent 75%, transparent);
+    background-image: linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                      transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                      transparent 75%, transparent);
+    -pie-background: linear-gradient(45deg, rgba(255, 255, 255, .2) 25%, transparent 25%,
+                     transparent 50%, rgba(255, 255, 255, .2) 50%, rgba(255, 255, 255, .2) 75%,
+                     transparent 75%, transparent) 0 0 / 50px 50px #ac0;
+    behavior: url(/pie/PIE.htc);
+}
+body.polka-dot {
+    background-color:#001;
+    background-image: radial-gradient(white 15%, transparent 16%),
+    radial-gradient(white 15%, transparent 16%);
+    background-size:60px 60px;
+    background-position: 0 0, 30px 30px;
+}
+
+body.marvel {
+    background: url("../img/bg/marvel.jpg") repeat scroll center top transparent; 
+    background-color: #333; 
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* original: http://gdefon.org/_ph/1/237261574.jpg */
+body.polar-lights {
+    background: url("../img/bg/polar_lights.jpg") repeat scroll center top transparent; 
+    background-color: #333; 
+    background-size: cover;
+}
+
+body.blue-weaves {
+    background: url("../img/bg/blue_waves.jpg") repeat scroll center top transparent;
+    background-color: #333; 
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* original: http://all4desktop.com/data_images/original/4236775-wallpaper-background.jpg */
+body.cracks {
+    background: url("../img/bg/cracks.jpg") repeat scroll center top transparent; 
+    background-color: #333; 
+    background-size: cover;
+}
+
+/* END BACKGROUND */
+
+/* LOGO */
+/* created with: http://www.urlencoder.org */
+/* placeholder for cases when logo not found */
+div.temp-logo {
+    background-image: url("../img/logo/temp_logo.png")
+    width: 150px;
+    height: 71px;
+}
+
+div.padavan {
+    background-image: url("/bootstrap/img/padavan_logo.png") !important;
+    width: 150px !important;
+    height: 71px !important;
+}
+div.RP-AC56,
+div.RT-AC1200,
+div.RT-AC1200GU,
+div.RT-AC1200HP,
+div.RT-AC51U,
+div.RT-AC54U,
+div.RT-N11P,
+div.RT-N11PB1,
+div.RT-N12plus,
+div.RT-N13UB1,
+div.RT-N14U,
+div.RT-N56U,
+div.RT-N56UB1,
+div.asus {
+    background-image: url("../img/logo/asus.png") !important;
+    width: 150px !important;
+    height: 71px !important;
+}
+div.F9K1103,
+div.belkin {
+    background-image: url("../img/logo/belkin.png") !important;
+    width: 220px !important;
+    height: 100px !important;
+}
+div.MQ-WITI-256,
+div.MQ-WITI-512,
+div.maker {
+    background-image: url("../img/logo/maker.png") !important;
+    width: 220px !important;
+    height: 100px !important;
+}
+div.WT3020A,
+div.WT3020H,
+div.WT3020H16M,
+div.nexx {
+    background-image: url("../img/logo/nexx.png") !important;
+    width: 220px !important;
+    height: 100px !important;
+}
+div.MI-3,
+div.MI-3C,
+div.MI-3_SPI,
+div.MI-4,
+div.MI-4A_100M,
+div.MI-4C,
+div.MI-MINI,
+div.MI-NANO,
+div.MI-R3G,
+div.MI-R3G_SPI,
+div.MI-R3Gv2,
+div.MI-R3PRO,
+div.MI-R3P_SPI,
+div.xiaomi-big {
+    background-image: url("../img/logo/xiaomi_big.png") !important;
+    width: 201px !important;
+    height: 82px !important;
+    background-repeat: no-repeat;
+}
+div.xiaomi-white {
+    background-image: url("../img/logo/xiaomi_white.png") !important;
+    width: 201px !important;
+    height: 82px !important;
+}
+div.KN-4G3,
+div.KN-4G3B,
+div.KN-EXTRA,
+div.KN-EXTRA2,
+div.KN-GIGA3,
+div.KN-LITE2,
+div.KN-LITE3,
+div.KN-LITE3B,
+div.KN-OMNI,
+div.KN-OMNI2,
+div.KN-START2,
+div.KN-ULTRA2,
+div.KN-VIVA,
+div.zyxel-new {
+    background-image: url("../img/logo/zyxel_new.png") !important;
+    width: 220px !important;
+    height: 100px !important;
+}
+
+/* END LOGO */
